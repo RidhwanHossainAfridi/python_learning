@@ -1,4 +1,4 @@
-% Marks Percentage Quiz Best 2
+#Marks Percentage Quiz Best 2
 x = input('Enter')
 x = x.split(',')
 lst = list()
